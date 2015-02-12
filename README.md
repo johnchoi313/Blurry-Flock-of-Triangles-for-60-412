@@ -1,7 +1,9 @@
 # Blurry-Flock-of-Triangles-for-60-412
 A Blurry Flock of Triangles for Interactive Art and Computational Design.
 
-Uses code from:
+This is basically for an assignment where we have to mash two ofxAddons together to see if they work.
+
+Here are the two addons used:
 
 ofxBlur by kylemcdonald
 https://github.com/kylemcdonald/ofxBlur

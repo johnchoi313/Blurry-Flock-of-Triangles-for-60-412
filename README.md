@@ -1,7 +1,7 @@
 # Blurry-Flock-of-Triangles-for-60-412
-A Blurry Flock of Triangles for Interactive Art and Computational Design.
+A Blurry Flock of Triangles for Interactive Art and Computational Design, 60-412.
 
-This is basically for an assignment where we have to mash two ofxAddons together to see if they work.
+This is basically for an assignment where we have to mash two OpenFrameworks ofxAddons together to see if they work.
 
 Here are the two addons used:
 
